@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Downloads/PKLot.v1-raw.yolov5-obb"
+		}
+	],
+	"settings": {}
+}
